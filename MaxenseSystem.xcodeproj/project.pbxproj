@@ -55,6 +55,13 @@
 		6B5BF05B1820BE340015DACE /* MaxenseSystemTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MaxenseSystemTests-Info.plist"; sourceTree = "<group>"; };
 		6B5BF05D1820BE340015DACE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6B5BF05F1820BE340015DACE /* MaxenseSystemTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MaxenseSystemTests.m; sourceTree = "<group>"; };
+		6B5BF0691820C3480015DACE /* MaxenseSystemLogoX120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MaxenseSystemLogoX120.png; sourceTree = "<group>"; };
+		6B5BF06A1820C3540015DACE /* MaxenseSystemLogoX76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MaxenseSystemLogoX76.png; sourceTree = "<group>"; };
+		6B5BF06B1820C35D0015DACE /* MaxenseSystemLogoX152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MaxenseSystemLogoX152.png; sourceTree = "<group>"; };
+		6B5BF06C1820C3680015DACE /* MaxenseSystemLogoX80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MaxenseSystemLogoX80.png; sourceTree = "<group>"; };
+		6B5BF06D1820C3710015DACE /* MaxenseSystemLogoX40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MaxenseSystemLogoX40.png; sourceTree = "<group>"; };
+		6B5BF06E1820C3820015DACE /* MaxenseSystemLogoX58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MaxenseSystemLogoX58.png; sourceTree = "<group>"; };
+		6B5BF06F1820C38A0015DACE /* MaxenseSystemLogoX29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MaxenseSystemLogoX29.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +91,13 @@
 		6B5BF0251820BE340015DACE = {
 			isa = PBXGroup;
 			children = (
+				6B5BF06F1820C38A0015DACE /* MaxenseSystemLogoX29.png */,
+				6B5BF06E1820C3820015DACE /* MaxenseSystemLogoX58.png */,
+				6B5BF06D1820C3710015DACE /* MaxenseSystemLogoX40.png */,
+				6B5BF06C1820C3680015DACE /* MaxenseSystemLogoX80.png */,
+				6B5BF06B1820C35D0015DACE /* MaxenseSystemLogoX152.png */,
+				6B5BF06A1820C3540015DACE /* MaxenseSystemLogoX76.png */,
+				6B5BF0691820C3480015DACE /* MaxenseSystemLogoX120.png */,
 				6B5BF0371820BE340015DACE /* MaxenseSystem */,
 				6B5BF0591820BE340015DACE /* MaxenseSystemTests */,
 				6B5BF0301820BE340015DACE /* Frameworks */,
@@ -477,6 +491,7 @@
 				6B5BF0651820BE340015DACE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6B5BF0661820BE340015DACE /* Build configuration list for PBXNativeTarget "MaxenseSystemTests" */ = {
 			isa = XCConfigurationList;
@@ -485,6 +500,7 @@
 				6B5BF0681820BE340015DACE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
